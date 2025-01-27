@@ -1,2 +1,2 @@
 # NARITA_T_20250201_LingFes2025
-presentation materials, diagrams and codes used in the presentation ‘確率論的な視点から見た弛緩したソ=A probabilistic perspective on relaxed so’ at Linguistics Fest 2025.
+This is a repository of presentation materials, diagrams and codes used in the presentation ‘確率論的な視点から見た弛緩したソ=A probabilistic perspective on relaxed so’ at [言語学フェス2025=Linguistics Fest 2025](https://sites.google.com/view/lingfes2025). All material in this repository is open access under the Creative Commons Attribution License and may be used, distributed and reproduced in any medium provided the original work is properly cited.
